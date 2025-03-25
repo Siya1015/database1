@@ -8,4 +8,6 @@
  
 
 -- An SQL query to drop(delete) the database called demo
+
+
  drop database demo;
